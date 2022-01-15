@@ -1,25 +1,32 @@
-## Nord-Backgrounds
-An icy-cool ❄️ collection of wallpapers for your nord rice. WIP.
+## TokyoNight-Backgrounds
+An dark neon collection of wallpapers for your night rice. 
+
+WIP: _Only Avogadr.io wallpapers for now._
 
 ### Goals:
-- Make a collection of wallpapers using the nordtheme colorscheme.
-- All wallpapers licensed under any of the Creative Commons licenses (i.e. CC0, CC-BY, CC-BY-SA).
-- Support for 4K (3840x2160) and FHD (1920x1080) resolutions.
+- Make a collection of wallpapers using the tokyo-night colorscheme.
+- All wallpapers licensed under any of the Creative Commons licenses (i.e. CC0, CC-BY, CC-BY-SA) or any ofher free license.
+- Support for 4K (3840x2160), QHD (2560x1440) and FHD (1920x1080) resolutions.
 
 ### License
-Check the sources.txt file for each directory. Wallpapers are licensed under the same license as the source vector file.
+Check the `sources.txt` file for each directory. Wallpapers are licensed under the same license as the source vector file.
 
 ### Credits
-Arctic Ice Studio for the creation of the [Nord][nordtheme] theme.
+[enkia][enkia] for the creation of the [tokyo-night-vscode-theme][tokyo-night-vscode-theme] theme.
+
+[Daniel Soto][dxnst] for the creation of the [nord-backgrounds][nord-backgrounds] which I used in the past and loved, which pushed me to create a fork for a different theme.
 
 ### Check these cool projects:
-[Nord][nord] - An arctic, north-bluish color palette.
-
-[ImageGoNord][ign] - A tool that can convert your rgb images to nordtheme palette.
+[nord-backgrounds][nord-backgrounds] - The original version of this fork.
 
 [Avogadrio][avogadrio] - Worship your favorite molecule by setting it as your wallpaper.
 
-[nord]: https://github.com/arcticicestudio/nord
-[nordtheme]: https://www.nordtheme.com/
-[ign]: https://github.com/Schrodinger-Hat/ImageGoNord
+[avogadr-py][avogadr-py] - The tool I created for automated downloading of [Avogadrio][avogadrio] wallpapers
+
+
+[nord-backgrounds]: https://github.com/dxnst/nord-backgrounds
+[dxnst]: https://github.com/dxnst
+[enkia]: https://github.com/enkia
+[tokyo-night-vscode-theme]: https://github.com/enkia/tokyo-night-vscode-theme
 [avogadrio]: https://github.com/lambdacasserole/avogadrio
+[avogadr-py]: https://github.com/czechbol/avogadr-py
