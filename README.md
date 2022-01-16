@@ -1,5 +1,5 @@
 ## TokyoNight-Backgrounds
-An dark neon collection of wallpapers for your night rice. 
+A dark neon collection of wallpapers for your night rice. 
 
 WIP: _Only Avogadr.io wallpapers for now._
 
