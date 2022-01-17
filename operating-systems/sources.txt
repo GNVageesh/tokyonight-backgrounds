@@ -24,4 +24,7 @@ puppylinux https://commons.wikimedia.org/wiki/File:Puppy_logo.svg
 solus https://commons.wikimedia.org/wiki/File:Solus.svg
 ubuntu https://commons.wikimedia.org/wiki/File:Former_UbuntuCoF.svg
 voidlinux https://commons.wikimedia.org/wiki/File:Void_Linux_logo.svg
-windows https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012.svg
+windows-10 https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012.svg
+windows-10-colour https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012_derivative.svg
+windows-11 https://commons.wikimedia.org/wiki/File:Windows_logo_-_2021.svg
+windows-11-colour https://commons.wikimedia.org/wiki/File:M_box.svg

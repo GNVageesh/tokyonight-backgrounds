@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 3840 2160"
+   style="enable-background:new 0 0 3840 2160;"
+   xml:space="preserve"
+   sodipodi:docname="ubuntu.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2657" /><sodipodi:namedview
+   id="namedview2655"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.35625"
+   inkscape:cx="696.14035"
+   inkscape:cy="1079.2982"
+   inkscape:window-width="1920"
+   inkscape:window-height="1060"
+   inkscape:window-x="1920"
+   inkscape:window-y="20"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2644">
+	.st0{fill:#FF6309;}
+	.st1{fill:#FFB515;}
+	.st2{fill:#C90016;}
+</style>
+
+<rect
+   style="fill:#24283b;stroke-width:2.85598"
+   id="rect3680"
+   width="3840"
+   height="2160"
+   x="0"
+   y="0" /><g
+   id="g2652">
+	<circle
+   id="orange-circle"
+   class="st0"
+   cx="1568.3"
+   cy="1080"
+   r="89.099998"
+   style="fill:#ff9e64;fill-opacity:1" />
+	<circle
+   id="yellow-circle"
+   class="st1"
+   cx="2204.1001"
+   cy="1447.4"
+   r="89.099998"
+   style="fill:#e0af68;fill-opacity:1" />
+	<circle
+   id="red-circle"
+   class="st2"
+   cx="2203.1001"
+   cy="712.59998"
+   r="89.099998"
+   style="fill:#f7768e;fill-opacity:1" />
+	<path
+   id="orange-arm"
+   class="st0"
+   d="m 1991.5,860.6 c 110.7,0 201.8,82.3 217.5,188.1 h 151.8 c -6.9,-83.3 -41.1,-161.6 -98.9,-222.4 -37.2,18.6 -82.3,19.6 -121.5,-2.9 -39.2,-22.5 -61.7,-61.7 -63.7,-103.8 -27.4,-6.9 -55.8,-9.8 -85.2,-9.8 -55.8,0 -108.7,11.8 -157.7,35.3 l 76.4,131.3 c 25.5,-10 52.9,-15.8 81.3,-15.8 z"
+   style="fill:#ff9e64;fill-opacity:1" />
+	<path
+   id="yellow-arm"
+   class="st1"
+   d="m 1772.1,1080 c 0,-69.6 33.3,-132.3 84.2,-172.4 l -76.4,-131.3 c -17.6,12.7 -34.3,26.5 -50,42.1 -44.1,44.1 -75.4,97 -93.1,154.8 35.3,22.5 57.8,61.7 57.8,106.8 0,45.1 -23.5,84.2 -57.8,106.8 17.6,57.8 49,110.7 93.1,154.8 15.7,15.7 32.3,29.4 50,42.1 l 76.4,-131.3 c -50.9,-40.1 -84.2,-102.8 -84.2,-172.4 z"
+   style="fill:#e0af68;fill-opacity:1" />
+	<path
+   id="red-arm"
+   class="st2"
+   d="m 2209,1111.3 c -15.7,105.8 -106.8,188.1 -217.5,188.1 -28.4,0 -56.8,-5.9 -81.3,-15.7 l -76.4,131.3 c 49,22.5 101.9,35.3 157.7,35.3 29.4,0 57.8,-2.9 85.2,-9.8 2,-42.1 24.5,-81.3 63.7,-103.8 39.2,-22.5 84.2,-21.6 121.5,-2.9 57.8,-61.7 92.1,-139.1 98.9,-222.4 H 2209 Z"
+   style="fill:#f7768e;fill-opacity:1" />
+</g></svg>

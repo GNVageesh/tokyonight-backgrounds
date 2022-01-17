@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 3840 2160"
+   style="enable-background:new 0 0 3840 2160;"
+   xml:space="preserve"
+   sodipodi:docname="lua.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2002" /><sodipodi:namedview
+   id="namedview2000"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.35625"
+   inkscape:cx="1757.193"
+   inkscape:cy="1084.9123"
+   inkscape:window-width="1920"
+   inkscape:window-height="1060"
+   inkscape:window-x="0"
+   inkscape:window-y="20"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style1977">
+	.st0{fill:#000080;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#808080;stroke-width:10.8612;stroke-miterlimit:10;stroke-dasharray:40.8475;}
+</style>
+<rect
+   style="fill:#24283b;fill-opacity:1;stroke:#1a1b26;stroke-width:6.79166"
+   id="rect3113"
+   width="3833.2085"
+   height="2153.2083"
+   x="3.3958299"
+   y="3.3958299" /><g
+   id="g1997">
+	<g
+   id="g1983"
+   style="fill:#7aa2f7;fill-opacity:1">
+		<path
+   class="st0"
+   d="m 2282,1080.1 c 0,-199.8 -162.2,-362 -362,-362 -199.8,0 -362,162.2 -362,362 0,199.8 162.2,362 362,362 199.8,0 362,-162.2 362,-362"
+   id="path1979"
+   style="fill:#7aa2f7;fill-opacity:1" />
+		<path
+   class="st0"
+   d="m 2388,718 c 0,-58.5 -47.5,-106 -106,-106 -58.5,0 -106,47.5 -106,106 0,58.5 47.5,106 106,106 58.5,0 106,-47.4 106,-106"
+   id="path1981"
+   style="fill:#7aa2f7;fill-opacity:1" />
+	</g>
+	<g
+   id="g1993">
+		<path
+   class="st1"
+   d="m 1704.6,1234.3 h 117.3 v 26.7 h -147.6 v -237.5 h 30.3 z"
+   id="path1985" />
+		<path
+   class="st1"
+   d="m 1962,1261 v -23.8 c -16,22.5 -31.9,31.3 -57,31.3 -33.2,0 -54.4,-18.2 -54.4,-46.6 v -131.6 h 27 v 120.9 c 0,20.5 13.7,33.6 35.2,33.6 28.3,0 46.6,-22.8 46.6,-57.7 v -96.8 h 27 V 1261 Z"
+   id="path1987" />
+		<path
+   class="st1"
+   d="m 2184.9,1265.6 c -8.8,2.3 -13,2.9 -18.6,2.9 -17.6,0 -26.1,-7.8 -28,-25.1 -19.2,17.6 -36.5,25.1 -58,25.1 -34.5,0 -56,-19.5 -56,-50.5 0,-22.2 10.1,-37.5 30,-45.6 10.4,-4.2 16.3,-5.5 54.7,-10.4 21.5,-2.6 28.3,-7.5 28.3,-18.9 v -7.2 c 0,-16.3 -13.7,-25.4 -38.1,-25.4 -25.4,0 -37.8,9.4 -40.1,30.3 h -27.4 c 0.7,-16.9 3.9,-26.7 11.7,-35.5 11.4,-12.7 31.9,-19.9 56.7,-19.9 42,0 64.2,16.3 64.2,46.6 v 100.4 c 0,8.5 5.2,13.4 14.7,13.4 1.6,0 2.9,0 5.9,-0.7 z m -47.6,-89 c -9.1,4.2 -15,5.5 -43.7,9.4 -29,4.2 -41.1,13.4 -41.1,31.3 0,17.3 12.4,27.4 33.6,27.4 16,0 29.3,-5.2 40.4,-15.3 8.1,-7.5 10.8,-13 10.8,-22.2 z"
+   id="path1989" />
+		<path
+   class="st1"
+   d="m 2176,930.1 c 0,-58.5 -47.5,-106 -106,-106 -58.5,0 -106,47.5 -106,106 0,58.5 47.5,106 106,106 58.5,0 106,-47.5 106,-106"
+   id="path1991" />
+	</g>
+	<path
+   class="st2"
+   d="m 2337.1,867.5 c 33.5,65.8 51,138.6 51,212.5 0,258.4 -209.7,468.1 -468.1,468.1 -258.4,0 -468.1,-209.7 -468.1,-468.1 0,-258.4 209.7,-468.1 468.1,-468.1 83.1,0 164.6,22.1 236.2,63.9"
+   id="path1995" />
+</g>
+</svg>

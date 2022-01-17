@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 3840 2160"
+   style="enable-background:new 0 0 3840 2160;"
+   xml:space="preserve"
+   sodipodi:docname="freebsd.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs993" /><sodipodi:namedview
+   id="namedview991"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.35625"
+   inkscape:cx="1308.0702"
+   inkscape:cy="1079.2982"
+   inkscape:window-width="1920"
+   inkscape:window-height="1060"
+   inkscape:window-x="1920"
+   inkscape:window-y="20"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<rect
+   style="fill:#24283b;stroke-width:5.46313"
+   id="rect5602"
+   width="3840"
+   height="2160"
+   x="0"
+   y="0" /><g
+   id="freebsd"
+   style="fill:#f7768e;fill-opacity:1">
+	<path
+   d="m 2110.1,698.7 c 26.5,-26.5 275.5,-183.7 332.1,-126.9 56.5,56.5 -100.4,305.6 -126.9,332.1 -26.5,26.5 -94,2.1 -150.5,-54.6 -56.8,-56.6 -81.4,-124.1 -54.7,-150.6 z"
+   id="path983"
+   style="fill:#f7768e;fill-opacity:1" />
+	<path
+   d="m 1647.8,631.7 c -86.6,-49.1 -209.7,-103.8 -248.8,-64.4 -39.6,39.6 16.9,165.6 66.6,252.2 44,-76.9 106.8,-141.6 182.2,-187.8 z"
+   id="path985"
+   style="fill:#f7768e;fill-opacity:1" />
+	<path
+   d="m 2355.8,884.3 c 7.9,27 6.4,49.4 -6.4,62.3 -48.4,48.4 -208.7,-64.4 -260.8,-167.2 -42.9,-77.1 -26.5,-127.4 35.5,-116.2 13.6,-8.6 29.3,-18.1 46.8,-27.7 -71.1,-37 -151.7,-58 -237.4,-58 -284.1,0 -514.4,230.2 -514.4,514.4 0,283.9 230.2,514.4 514.4,514.4 284.2,0 514.4,-230.2 514.4,-514.4 0,-91.6 -24.1,-177.7 -66.1,-252.4 -9.3,16.7 -18.1,31.7 -26,44.8 z"
+   id="path987"
+   style="fill:#f7768e;fill-opacity:1" />
+</g>
+</svg>

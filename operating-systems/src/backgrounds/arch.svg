@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 3840 2160"
+   style="enable-background:new 0 0 3840 2160;"
+   xml:space="preserve"
+   sodipodi:docname="arch.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs19" /><sodipodi:namedview
+   id="namedview17"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.50381358"
+   inkscape:cx="1752.6324"
+   inkscape:cy="1106.5601"
+   inkscape:window-width="1920"
+   inkscape:window-height="1060"
+   inkscape:window-x="0"
+   inkscape:window-y="20"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1793D1;}
+	.st1{fill:#FFFFFF;fill-opacity:0.1657;}
+	.st2{fill:url(#SVGID_1_);}
+</style>
+<rect
+   style="fill:#24283b;stroke-width:5.46313"
+   id="rect5602"
+   width="3840"
+   height="2160"
+   x="-3840"
+   y="0"
+   transform="scale(-1,1)" /><g
+   id="g14"
+   style="fill:#7aa2f7;fill-opacity:1">
+	<path
+   class="st0"
+   d="m 1920.8,558.2 c -45.6,114 -74.9,188.8 -127,297.9 30.9,34.2 70,73.3 133.5,117.2 -68.4,-27.7 -114,-55.3 -148.1,-84.7 -66.7,138.4 -169.3,333.7 -379.3,711.4 164.4,-96 293,-154.7 411.9,-175.8 -4.9,-22.8 -8.1,-45.6 -8.1,-70 v -4.9 c 3.3,-105.8 57,-187.2 122.1,-182.3 65.1,4.9 115.6,96 114,201.9 0,19.5 -3.3,39.1 -6.5,57 117.2,22.8 244.2,81.4 407,175.8 -32.6,-58.6 -60.2,-112.3 -87.9,-162.8 -42.3,-34.2 -87.9,-76.5 -179.1,-123.7 63.5,16.3 109.1,35.8 143.3,57 C 2038,851.3 2015.2,782.9 1920.8,558.2 Z"
+   id="path4"
+   style="fill:#7aa2f7;fill-opacity:1" />
+	
+	
+		<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="-836.86279"
+   y1="1621.5631"
+   x2="-841.17908"
+   y2="1630.1261"
+   gradientTransform="matrix(32.813,0,0,37.7811,29505.121,-60465.148)">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   id="stop7" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF;stop-opacity:0.2745"
+   id="stop9" />
+	</linearGradient>
+	
+</g>
+</svg>
