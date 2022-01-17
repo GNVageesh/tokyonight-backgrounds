@@ -1,0 +1,13 @@
+adobe https://commons.wikimedia.org/wiki/File:Adobe_Corporate_Horizontal_Red_HEX.svg
+amazon https://commons.wikimedia.org/wiki/File:Amazon_logo.svg
+apple https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg
+autodesk-2021 https://commons.wikimedia.org/wiki/File:Autodesk_Logo_2021.svg
+autodesk-old-icon https://commons.wikimedia.org/wiki/File:Autodesk_Logo_A_only.svg
+cisco https://commons.wikimedia.org/wiki/File:Cisco_logo.svg
+dropbox https://commons.wikimedia.org/wiki/File:Dropbox_Icon.svg
+ibm https://commons.wikimedia.org/wiki/File:IBM_logo.svg
+meta https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc._logo.svg
+oracle https://commons.wikimedia.org/wiki/File:Oracle_logo.svg
+red-hat https://commons.wikimedia.org/wiki/File:Red_Hat_logo.svg
+servicenow https://commons.wikimedia.org/wiki/File:ServiceNow_logo.svg
+stackoverflow https://commons.wikimedia.org/wiki/File:Stack_Overflow_logo.svg
