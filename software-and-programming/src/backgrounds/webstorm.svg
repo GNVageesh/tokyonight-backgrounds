@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)" sodipodi:docname="appcode.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 3840 2160"
+	 style="enable-background:new 0 0 3840 2160;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#24283B;stroke:#1A1B26;stroke-width:6.7917;}
+	.st1{fill:#73DACA;}
+	.st2{fill:#E0AF68;}
+	.st3{fill:#7AA2F7;}
+	.st4{fill:#414868;}
+	.st5{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview  bordercolor="#eeeeee" borderopacity="1" id="namedview2914" inkscape:current-layer="Layer_1" inkscape:cx="1762.807" inkscape:cy="1098.2456" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:pageshadow="0" inkscape:window-height="1060" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="20" inkscape:zoom="0.7125" pagecolor="#505050" showgrid="false">
+	</sodipodi:namedview>
+<rect id="rect3113" x="3.4" y="3.4" class="st0" width="3833.2" height="2153.2"/>
+<g>
+	<g>
+		<polygon class="st1" points="1701.4,1321.1 1621.3,844 1770.4,782.7 1865,838.9 1951.9,792 2133.3,861.9 2031.1,1378.2 		"/>
+		<polygon class="st2" points="2217.7,983.7 2141,793.7 2001.3,781.8 1785.7,988.8 1843.7,1255.5 1951.9,1332.2 2217.7,1173.7 
+			2152.1,1051.9 		"/>
+		<polygon class="st3" points="2098.4,955.6 2152.1,1051.9 2217.7,983.7 2170,865.3 		"/>
+	</g>
+	<g>
+		<rect x="1735.5" y="896" class="st4" width="368" height="368"/>
+		<g>
+			<rect x="1770.4" y="1195" class="st5" width="138" height="23"/>
+			<path class="st5" d="M1951,1074l19.6-23.9c13.6,11.1,28.1,18.7,45.2,18.7c13.6,0,21.3-5.1,21.3-14.5v-0.9
+				c0-8.5-5.1-12.8-30.7-19.6c-30.7-7.7-49.4-16.2-49.4-46.9v-0.9c0-28.1,22.2-46,52.8-46c22.2,0,40.9,6.8,56.2,19.6l-17,25.6
+				c-13.6-9.4-26.4-15.3-39.2-15.3c-12.8,0-19.6,6-19.6,13.6v0.9c0,10.2,6.8,13.6,32.4,20.4c30.7,8.5,47.7,19.6,47.7,46v0.9
+				c0,30.7-23,47.7-55.4,47.7C1991.9,1098.7,1968.9,1090.2,1951,1074"/>
+			<polygon class="st5" points="1921.2,943.7 1898.2,1032.3 1872.6,943.7 1847.1,943.7 1820.7,1032.3 1797.7,943.7 1762.7,943.7 
+				1806.2,1096.2 1834.3,1096.2 1859.9,1007.6 1884.6,1096.2 1913.5,1096.2 1957,943.7 			"/>
+		</g>
+	</g>
+</g>
+</svg>

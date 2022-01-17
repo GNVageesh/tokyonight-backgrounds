@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)" sodipodi:docname="appcode.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 3840 2160"
+	 style="enable-background:new 0 0 3840 2160;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#24283B;stroke:#1A1B26;stroke-width:6.7917;}
+	.st1{fill:#FF9E64;}
+	.st2{fill:#BB9AF7;}
+	.st3{fill:#F7768E;}
+	.st4{fill:#414868;}
+	.st5{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview  bordercolor="#eeeeee" borderopacity="1" id="namedview2914" inkscape:current-layer="Layer_1" inkscape:cx="1762.807" inkscape:cy="1098.2456" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:pageshadow="0" inkscape:window-height="1060" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="20" inkscape:zoom="0.7125" pagecolor="#505050" showgrid="false">
+	</sodipodi:namedview>
+<rect id="rect3113" x="3.4" y="3.4" class="st0" width="3833.2" height="2153.2"/>
+<g>
+	<g>
+		<polygon class="st1" points="2117.2,781.8 1946.8,843.2 1812.2,781.8 1680.1,1113.2 1831.7,1052.7 1829.2,1220.6 2153.8,1226.5 
+			2217.7,898.5 		"/>
+		<polygon class="st2" points="2054.1,975.2 1839.4,834.6 1666.5,941.1 2045.6,1087.7 		"/>
+		<polygon class="st3" points="1869.2,1362.8 2092.4,1333 2021.7,1196.7 2068.6,1139.6 2073.7,1104.7 1839.4,833.8 1621.3,887.5 
+			1621.3,1200.1 1747.4,1378.2 1869.2,1362.8 1869.2,1362.8 		"/>
+	</g>
+	<g>
+		<rect x="1735.5" y="896" class="st4" width="368" height="368"/>
+		<g>
+			<rect x="1770.4" y="1195" class="st5" width="138" height="23"/>
+			<polygon class="st5" points="1916.1,943.7 1952.7,943.7 1992.8,1008.4 2032.8,943.7 2069.4,943.7 2069.4,1096.2 2035.4,1096.2 
+				2035.4,996.5 1992.8,1062.1 1991.9,1062.1 1949.3,997.4 1949.3,1096.2 1916.1,1096.2 			"/>
+			<path class="st5" d="M1769.6,943.7h69.9c19.6,0,34.1,5.1,44.3,15.3c8.5,8.5,12.8,20.4,12.8,34.9v0.9c0,12.8-3.4,22.2-9.4,29.8
+				c-6,7.7-13.6,13.6-23.9,17l37.5,54.5h-39.2l-31.5-46.9h-28.1v46.9h-33.2V943.7L1769.6,943.7z M1837.7,1017.8
+				c8.5,0,14.5-1.7,18.7-6s6.8-9.4,6.8-15.3v-0.9c0-7.7-2.6-12.8-6.8-16.2c-4.3-3.4-11.1-5.1-19.6-5.1h-33.2v43.4
+				C1803.6,1017.8,1837.7,1017.8,1837.7,1017.8z"/>
+		</g>
+	</g>
+</g>
+</svg>
