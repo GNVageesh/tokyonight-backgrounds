@@ -4,7 +4,7 @@ A dark neon collection of wallpapers for your night rice.
 ### Goals:
 - Make a collection of wallpapers using the tokyo-night colorscheme.
 - All wallpapers licensed under any of the Creative Commons licenses (i.e. CC0, CC-BY, CC-BY-SA) or any ofher free license.
-- Support for 4K (3840x2160), QHD (2560x1440) and FHD (1920x1080) resolutions.
+- Support for the most common 4K (3840x2160), QHD (2560x1440) and FHD (1920x1080) resolutions. If anyone needs ultrawide versions, they can easily do this by adjusting the background
 
 ### License
 Check the `sources.txt` file for each directory. Wallpapers are licensed under the same license as the source vector file.
