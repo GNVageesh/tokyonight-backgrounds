@@ -1,8 +1,6 @@
 ## TokyoNight-Backgrounds
 A dark neon collection of wallpapers for your night rice. 
 
-WIP: _Only Avogadr.io wallpapers for now._
-
 ### Goals:
 - Make a collection of wallpapers using the tokyo-night colorscheme.
 - All wallpapers licensed under any of the Creative Commons licenses (i.e. CC0, CC-BY, CC-BY-SA) or any ofher free license.
