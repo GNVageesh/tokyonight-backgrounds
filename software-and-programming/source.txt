@@ -1,3 +1,4 @@
+angular https://commons.wikimedia.org/wiki/File:Angular_full_color_logo.svg
 ansible https://commons.wikimedia.org/wiki/File:Ansible_logo.svg
 appcode https://commons.wikimedia.org/wiki/File:AppCode_Icon.svg
 atom https://commons.wikimedia.org/wiki/File:Atom_editor_logo.svg
@@ -25,6 +26,7 @@ php https://commons.wikimedia.org/wiki/File:PHP-logo.svg
 phpstorm https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg
 pycharm https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg
 python https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
+react https://commons.wikimedia.org/wiki/File:React-icon.svg
 ruby https://commons.wikimedia.org/wiki/File:Devicon-ruby-plain-wordmark.svg
 rubymine https://commons.wikimedia.org/wiki/File:RubyMine_Icon.svg
 rust https://en.wikipedia.org/wiki/File:Rust_programming_language_black_logo.svg
@@ -33,6 +35,7 @@ sublime (vectorized) https://en.wikipedia.org/wiki/File:Sublime_Text_3_logo.png
 typescript https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg
 vim https://commons.wikimedia.org/wiki/File:Icon-Vim.svg
 vscode https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg
+vue https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg
 webstorm https://commons.wikimedia.org/wiki/File:WebStorm_Icon.svg
 zig https://commons.wikimedia.org/wiki/File:Zig_logo_2020.svg
 
