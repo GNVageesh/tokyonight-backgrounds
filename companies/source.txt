@@ -1,13 +1,13 @@
 adobe https://commons.wikimedia.org/wiki/File:Adobe_Corporate_Horizontal_Red_HEX.svg
-avast-2021 https://commons.wikimedia.org/wiki/File:Avast_logo_2021.svg
-avast-2016 https://commons.wikimedia.org/wiki/File:Avast_Software_logo_2016.svg
-eset https://en.wikipedia.org/wiki/File:ESET_logo.svg
 amazon https://commons.wikimedia.org/wiki/File:Amazon_logo.svg
 apple https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg
 autodesk-2021 https://commons.wikimedia.org/wiki/File:Autodesk_Logo_2021.svg
 autodesk-old-icon https://commons.wikimedia.org/wiki/File:Autodesk_Logo_A_only.svg
+avast-2016 https://commons.wikimedia.org/wiki/File:Avast_Software_logo_2016.svg
+avast-2021 https://commons.wikimedia.org/wiki/File:Avast_logo_2021.svg
 cisco https://commons.wikimedia.org/wiki/File:Cisco_logo.svg
 dropbox https://commons.wikimedia.org/wiki/File:Dropbox_Icon.svg
+eset https://en.wikipedia.org/wiki/File:ESET_logo.svg
 ibm https://commons.wikimedia.org/wiki/File:IBM_logo.svg
 meta https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc._logo.svg
 oracle https://commons.wikimedia.org/wiki/File:Oracle_logo.svg

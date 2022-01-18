@@ -7,6 +7,7 @@ deepin https://commons.wikimedia.org/wiki/File:Deepin_logo.svg
 elementary-os https://commons.wikimedia.org/wiki/File:Elementary_logo.svg
 fedora https://commons.wikimedia.org/wiki/File:Fedora_logo.svg
 freebsd https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_freebsd.svg
+freedo https://commons.wikimedia.org/wiki/File:Freedo.svg
 freedos https://commons.wikimedia.org/wiki/File:FreeDOS_logo4_2010.svg
 gentoo https://commons.wikimedia.org/wiki/File:Gentoo_Logo_Vector.svg
 gnu https://commons.wikimedia.org/wiki/File:Heckert_GNU_white.svg
@@ -16,8 +17,6 @@ kaios https://commons.wikimedia.org/wiki/File:KaiOS_logo.svg
 kali https://commons.wikimedia.org/wiki/File:Kali-dragon-icon.svg
 kali-wordmark https://commons.wikimedia.org/wiki/File:Kali_Linux_2.0_wordmark.svg
 linux https://commons.wikimedia.org/wiki/File:Classic_flat_look_v1.1.svg
-linux-freedo https://commons.wikimedia.org/wiki/File:Freedo.svg
-linux-tux https://commons.wikimedia.org/wiki/File:Tux_icon.svg
 linuxmint https://commons.wikimedia.org/wiki/File:Linux_Mint_logo_without_wordmark.svg
 manjaro https://commons.wikimedia.org/wiki/File:Manjaro-logo.svg
 mxlinux https://commons.wikimedia.org/wiki/File:MX_Linux_Logo_white.svg
@@ -31,6 +30,8 @@ postmarketos https://commons.wikimedia.org/wiki/File:PostmarketOS_logo.svg
 puppylinux https://commons.wikimedia.org/wiki/File:Puppy_logo.svg
 raspberry-pi https://elinux.org/index.php?title=File:Raspberry_Pi_Logo.svg&page=1
 solus https://commons.wikimedia.org/wiki/File:Solus.svg
+tux https://commons.wikimedia.org/wiki/File:Tux_Classic_flat_look_v1.1.svg
+tux-icon https://commons.wikimedia.org/wiki/File:Tux_icon.svg
 ubuntu https://commons.wikimedia.org/wiki/File:Former_UbuntuCoF.svg
 voidlinux https://commons.wikimedia.org/wiki/File:Void_Linux_logo.svg
 windows-10 https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012.svg
