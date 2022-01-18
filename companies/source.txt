@@ -1,4 +1,7 @@
 adobe https://commons.wikimedia.org/wiki/File:Adobe_Corporate_Horizontal_Red_HEX.svg
+avast-2021 https://commons.wikimedia.org/wiki/File:Avast_logo_2021.svg
+avast-2016 https://commons.wikimedia.org/wiki/File:Avast_Software_logo_2016.svg
+eset https://en.wikipedia.org/wiki/File:ESET_logo.svg
 amazon https://commons.wikimedia.org/wiki/File:Amazon_logo.svg
 apple https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg
 autodesk-2021 https://commons.wikimedia.org/wiki/File:Autodesk_Logo_2021.svg
