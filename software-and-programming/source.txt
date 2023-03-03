@@ -24,6 +24,7 @@ neovim https://en.wikipedia.org/wiki/File:Neovim-logo.svg
 openshift https://commons.wikimedia.org/wiki/File:OpenShift-LogoType.svg
 php https://commons.wikimedia.org/wiki/File:PHP-logo.svg
 phpstorm https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg
+powershell https://github.com/PowerShell/PowerShell/blob/master/assets/ps_fluent_design_384.svg
 pycharm https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg
 python https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
 react https://commons.wikimedia.org/wiki/File:React-icon.svg
